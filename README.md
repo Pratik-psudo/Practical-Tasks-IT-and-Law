@@ -7,8 +7,8 @@ Part 1
 ### Actionable Items
 
 - Is the information collected connected with a function or activity of the agency?
-
-[ ] The oranization and the developer should review and ensure that all personal information collected is pertinent to the service or activity of the website.
+ 
+ <input type="checkbox">The oranization and the developer should review and ensure that all personal information collected is pertinent to the service or activity of the website.
 
 - Is the collection of the information is necessary for that purpose?
 
