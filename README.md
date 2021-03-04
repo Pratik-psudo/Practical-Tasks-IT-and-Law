@@ -18,9 +18,11 @@ Part 1
 ### Actionable Items
 
 - Are users informed why the information collected and how it will be used?
+
 [ ]  Create a Privacy statement in compliance with the NZ Govt. Web Usability standard section 2.4 mentioned (https://www.digital.govt.nz/standards-and-guidance/nz-government-web-standards/web-usability-standard-1-3/) and ensure that information is explicitly visible to the user and a impliment a checkbox(or alternative) that allows users to acknowledge and accept the statement. 
 
 - Are they informed of their right to review and correct it, and that it may be 
+
 [ ] A page or disclamier at the end of the form that requests and enables users to review and correct the information provided.
 
 ## Principle 
