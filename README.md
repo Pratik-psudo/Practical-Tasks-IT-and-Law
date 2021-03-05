@@ -29,6 +29,7 @@ Part 1
 ### Actionable Items
 
 - Is the information being stored with resanable measures to prevent misuse, disclosure or loss?
+- 
 [ ] Standard physical security measures must be implemented to prevent unautherized access
 
 [ ] Regurly update passwords, and install electronic security measures such as firewalls and antivirus softwares
@@ -41,20 +42,23 @@ Part 1
 
 [ ] Set up practises for maintaining security throughout the life cycle of the service or product, including scheduled maintainence of those features. and training staff to respond in an event of a breach.
 
-## Principle 
+## Principle 7 Correction of personal information
+### Actionable Items
+
+- Does the service allow users to request changes to personal information? 
+
+[ ] Create a form or section that enables users to update their information.
+
+- is there a a way for users to comment on failed requests to make changes
+
+[ ] The form or section that enables users to make changes must keep a record of all the changes made and have a comment section to allow users to state why the changes are being made and a record of that comment must be sent to both the user and kept on file.
+
+## Principle 8 Accuracy, etc., of personal information to be checked before use
 ### Actionable Items
 
 - 
+
 [ ]
-
--
-[ ]
-
-## Principle 
-### Actionable Items
-
-- 
-<form> <input type="checkbox"</form> [ ]
 
 -
 [ ]
