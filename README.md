@@ -30,10 +30,15 @@ Part 1
 
 - Is the information being stored with resanable measures to prevent misuse, disclosure or loss?
 [ ] Standard physical security measures must be implemented to prevent unautherized access
+
 [ ] Regurly update passwords, and install electronic security measures such as firewalls and antivirus softwares
+
 [ ] Set up operational practises in the organization that only enable essential staff to acces sensitive information, these employees must be trained and educated on the impact of security breaches and regular checks on those employees must be put in place.
+
 [ ] A risk profile based on the nature of the website; in accordance with the severity of impact a security or privacy breach would have, must be established. This can be done using guidelines put in place by the NZ Government Chief Digital Officer(GCDO) or by GCIO.  
+
 [ ] The website must also be designed with built-in privacy and security measure, this involves creating a framework that assigns tasks at different stages of the build that requires all creaters involved to asses threats at each level and resolve them appropriately.
+
 [ ] Set up practises for maintaining security throughout the life cycle of the service or product, including scheduled maintainence of those features. and training staff to respond in an event of a breach.
 
 ## Principle 
