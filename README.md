@@ -71,7 +71,7 @@ Assessment 1
 
 # Part 2 : Privacy Policy for (Unnamed Dropshipping Website)
 
-This Privacy policy outlined below is for a dropshipping business that My friend and I are in the process of starting. The name of the company is still undecided, but the company sells pet accessories/toys and aromatics like candles, incenses, etc. The information gathered includes the customer's name, address, contact information and email.
+This Privacy policy outlined below is for a dropshipping business that My friend and I are in the process of starting. The name of the company is still undecided, but the company sells pet accessories/toys and aromatics like candles, incenses, etc. The information gathered includes the customer's name, address, contact information, email and billing and purchase information in some cases.
 ## Privacy Policy for (TBD dropshipping)
 We collect personal information from you, including information about your:
 Name
