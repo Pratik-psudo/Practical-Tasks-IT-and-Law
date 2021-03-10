@@ -64,7 +64,12 @@ Assessment 1
 
 [ ] Build the form with compulsary fields for Information that is relevant and nessacary, and set up reasonable follow up schedules for updating info depending on the type of information gathered.
 
-#### Part 2 : Privacy Policy for (Unnamed Dropshipping Website)
+
+
+
+
+
+# Part 2 : Privacy Policy for (Unnamed Dropshipping Website)
 
 This Privacy policy outlined below is for a dropshipping business that My friend and I are in the process of starting. The name of the company is still undecided, but the company sells pet accessories/toys and aromatics like candles, incenses, etc. The information gathered includes the customer's name, address, contact information and email.
 ## Privacy Policy for (TBD dropshipping)
