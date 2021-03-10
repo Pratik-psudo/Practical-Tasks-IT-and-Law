@@ -1,7 +1,7 @@
 # Practical-Tasks-IT-and-Law
 Assessment 1
 
-Part 1
+#### Part 1
 
 ## Principle 1 Purpose of collection of personal information
 ### Actionable Items
@@ -58,7 +58,25 @@ Part 1
 
 - Is the information gathered accurate? 
 
-[ ]
+[ ] Set up an option to integrate with RealMe and allows users to verify their Identity through that or put a form or section enabling users to upload an ID or relavent documents required for verification, phone numbers could be verified using an Verification code sent through text.
 
--
-[ ]
+- Is the information complete, relavant or up to date?
+
+[ ] Build the form with compulsary fields for Information that is relevant and nessacary, and set up reasonable follow up schedules for updating info depending on the type of information gathered.
+
+#### Part 2 : Privacy Policy for (Unnamed Dropshipping Website)
+
+This Privacy policy outlined below is for a dropshipping business that My friend and I are in the process of starting. The name of the company is still undecided, but the company sells pet accessories/toys and aromatics like candles, incenses, etc. The information gathered includes the customer's name, address, contact information and email.
+## Privacy Policy for (TBD dropshipping)
+We collect personal information from you, including information about your:
+Name
+Address
+Contact information; Phone number and Email
+billing or purchase information
+We collect your personal information in order to:
+Ensure Items get delivered at the right place to the right person
+Providing some information is optional. If you choose not to enter a contact number, we'll be unable to confirm orders or inform them about changes in the order, for example delays,.
+We keep your information safe by storing it in encrypted files and only the staff responsible for delivery has access .
+
+We keep your information for 6 months at which point we securely destroy it by securely erasing all digitally stored information.
+You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong. If you’d like to ask for a copy of your information, or to have it corrected, please contact us at exampleexample123@gmail.com, or 022 222 1234, or 666 Hell Highway, Texas.
