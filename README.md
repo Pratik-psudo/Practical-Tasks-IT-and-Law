@@ -47,7 +47,7 @@ Part 1
 
 - Does the service allow users to request changes to personal information? 
 
-[ ] Create a form or section that enables users to update their information.
+[ ] Create a form or section that enables users to review and update their information.
 
 - is there a a way for users to comment on failed requests to make changes
 
@@ -56,7 +56,7 @@ Part 1
 ## Principle 8 Accuracy, etc., of personal information to be checked before use
 ### Actionable Items
 
-- 
+- Is the information gathered accurate? 
 
 [ ]
 
